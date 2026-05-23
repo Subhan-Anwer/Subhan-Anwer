@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 My Portfolio [https://subhan-portfolio.vercel.app/](https://subhan-anwer-portfolio.vercel.app/)
+- 👨‍💻 My Portfolio: [Subhan Anwer Portfolio](https://subhan-anwer-portfolio.vercel.app/)
 
-- 📝 All of my projects [https://subhan-portfolio.vercel.app/projects](https://subhan-anwer-portfolio.vercel.app/#portfolio)
+- 📝 Featured Projects: [Projects](https://subhan-anwer-portfolio.vercel.app/#portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
